@@ -18,6 +18,11 @@ A simple Python script to view a GitHub user's recent activity.
 ## Installation
 
 1. Clone this repository
+
+```bash
+git clone https://github.com/thotranphuc276/github-activity
+```
+
 2. Install dependencies:
 
 ```bash

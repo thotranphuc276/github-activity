@@ -2,6 +2,8 @@
 
 A simple Python script to view a GitHub user's recent activity.
 
+Submission for [GitHub Activity](https://roadmap.sh/projects/github-user-activity) project in [Roadmap.sh](https://roadmap.sh)
+
 ## Features
 
 - View recent pushes, issues, pull requests, and other GitHub activities
